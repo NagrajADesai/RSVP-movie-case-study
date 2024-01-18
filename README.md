@@ -5,7 +5,7 @@
 
 `IMDB+question.sql` - This file contains questions and their solutions.
 
-`IMDb+movies+Data+and+ERD+final.xlsx' - This file contains an ERD diagram and information about the database in an Excel sheet.
+`IMDb+movies+Data+and+ERD+final.xlsx` - This file contains an ERD diagram and information about the database in an Excel sheet.
 
 `executive summary of rsvp case study.pdf` - This file contains the summary solution of the case study.
 ## Problem Introduction
