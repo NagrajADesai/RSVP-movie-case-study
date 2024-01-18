@@ -1,4 +1,13 @@
 # RSVP-movie-case-study
+## Files information
+
+`IMDB+dataset+import.sql` - This file contains SQL code which is used to create the database, run the entire code to create a database.
+
+`IMDB+question.sql` - This file contains questions and their solutions.
+
+`IMDb+movies+Data+and+ERD+final.xlsx' - This file contains an ERD diagram and information about the database in an Excel sheet.
+
+`executive summary of rsvp case study.pdf` - This file contains the summary solution of the case study.
 ## Problem Introduction
 RSVP Movies is an Indian film production company which has produced many super-hit movies. They have usually released movies for the Indian audience but for their next project, they are planning to release a movie for the global audience in 2022.
 
