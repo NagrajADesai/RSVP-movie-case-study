@@ -1,5 +1,5 @@
 # RSVP-movie-case-study
-## Files information
+## Files
 
 `IMDB+dataset+import.sql` - This file contains SQL code which is used to create the database, run the entire code to create a database.
 
